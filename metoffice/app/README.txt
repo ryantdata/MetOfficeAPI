@@ -14,3 +14,13 @@ There are comment placeholders for an alert system which would notify the user o
 be interupted.
 
 The file named 'uploadOneHrObsToServer' is the script which should be scheduled.
+
+A .env file should be setup in the metoffice/app directory with the following parameters:
+
+DB_NAME = name of database
+DB_USERNAME = database username
+DB_HOST = database host
+DB_PORT = database port
+DB_PASSWORD = database password
+MET_OFFICE_API_KEY = api key to use the met office datapoint API
+MET_OFFICE_ROOT_URL = 'http://datapoint.metoffice.gov.uk/public/data/'
