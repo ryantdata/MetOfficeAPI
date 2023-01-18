@@ -12,3 +12,5 @@ The app performs 3 main operations:
 The app also contains scripts for retrieving and storing metadata from the met office API.
 There are comment placeholders for an alert system which would notify the user of any critical error which caused the autonomous process to
 be interupted.
+
+The file named 'uploadOneHrObsToServer' is the script which should be scheduled.
