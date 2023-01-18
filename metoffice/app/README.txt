@@ -24,3 +24,5 @@ DB_PORT = database port
 DB_PASSWORD = database password
 MET_OFFICE_API_KEY = api key to use the met office datapoint API
 MET_OFFICE_ROOT_URL = 'http://datapoint.metoffice.gov.uk/public/data/'
+
+python version = 3.11.0
